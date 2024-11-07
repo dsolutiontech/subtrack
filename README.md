@@ -1,6 +1,5 @@
 # subtrack
-![image](https://github.com/user-attachments/assets/16df9d0e-5898-4296-8eac-e60d3b1f8637)
-
+![image](https://github.com/user-attachments/assets/68c9e202-bb5b-428d-9a97-782e46d681ce)
 The provided code is a subscription tracker written in Python that allows users to manage subscriptions for a service (like Netflix).
 ### Overview of the Code
 
